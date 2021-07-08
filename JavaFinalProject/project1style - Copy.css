@@ -1,0 +1,86 @@
+body{
+    background-color: rgb(250,250,250);
+    font-family:sans-serif;
+}
+
+
+.container{
+    height:20px;
+    display:flex;
+    flex-wrap:wrap;
+    position:relative;
+    font-weight:light;
+}
+
+
+.container div{
+    margin:5px;
+    padding:5px;
+}
+
+
+.button1{
+    position:absolute;
+    right:20px;
+}
+
+
+.log{
+    position:absolute;
+    right:130px;
+    
+}
+.st{
+    font-weight:bold;
+}
+
+.head{
+    margin:auto;
+    width:50%;
+    font-weight:bold;
+    font-size:2.5em;
+    text-align:center;
+}
+
+.head2{
+    margin:auto;
+    width:50%;
+    text-align:center;
+    color: #555
+}
+
+.upload{
+    margin:auto;
+    width:50%;
+    height:280px;
+    padding:15px;
+    text-align:center;
+    background-color:#fff
+}
+.button2{
+    height:60px;
+    width:200px;
+    margin:5px;
+    background-color: #0f90fa;
+    color:#fff;
+    border:none;
+    border-radius:8px;
+}
+
+.url{
+    margin:5px;
+    height:55px;
+    width:200px;
+    text-align:center;
+    border:none;
+    border-bottom:1px solid;
+    color:#0f90fa;
+}
+
+.button1{
+    color:#fff;
+    background-color: #0f90fa;
+    border:none;
+    border-radius:2px; 
+}
+
